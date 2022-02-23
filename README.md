@@ -1,2 +1,2 @@
 # QHack2022
-# This repo contains my personal codes for QHack 2022 
+# This repo contains team Falcon's codes for the QHack challenge.
